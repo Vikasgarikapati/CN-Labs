@@ -1,4 +1,0 @@
-1. networks > req.nets   => supernetting.
-2. hosts > req.hosts => subnetting. for better routing.
-3. networks < req.nets => move to lower level.(A->B->C).
-4. hosts < req.hosts => move to higher level.(C->B->A).
