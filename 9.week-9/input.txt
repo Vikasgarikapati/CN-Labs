@@ -1,0 +1,1 @@
+Hello This is the message, okay this is sent from the text file 'input' file as an input. There goes the first line. And now the second line.
